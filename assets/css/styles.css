@@ -1,0 +1,16 @@
+.button, .button-white, .button-black {
+  height: 3.56rem;
+  width: 10.62rem;
+  border-radius: 2rem;
+  background-color: #2500f9;
+}
+
+.button-black {
+  color: #000000;
+}
+
+.button-white {
+  color: #fff;
+}
+
+/*# sourceMappingURL=styles.css.map */
